@@ -1,3 +1,6 @@
-<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="180" height="180" rx="36" fill="#FF3C00"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title">
+  <title id="title">Nikhila Vatram</title>
+  <rect width="180" height="180" rx="42" fill="#0D1B2A"/>
+  <path d="M38 132V48L96 132V48" fill="none" stroke="#D7FF5C" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M115 48L138 132L161 48" fill="none" stroke="#D7FF5C" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
